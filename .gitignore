@@ -23,7 +23,7 @@
 hs_err_pid*
 
 # maven folder ignore
-.classpath
-.project
-.settings/
-target/
+#.classpath
+#.project
+#.settings/
+#target/
